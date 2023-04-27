@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavantata09
 - 👀 I’m interested in Deep learning and AI to solve real world problems
-- 🌱 I’m currently working at Humonics
+- 🌱 I’m currently working at Optimum info systems
 - 💞️ I’m looking to collaborate with teams to solve problems with AI
 - 📫 you can reach me at sri.pavan.tata@outlook.com
 
